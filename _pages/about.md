@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate at the Knowledge-Based Systems (KBS) at [TU Wien](https://www.tuwien.at/en/), under the supervision of [Thomas Eiter](www.kr.tuwien.ac.at/staff/eiter/). Here, I am part of the LogiCS-COFUND doctoral programme.
+I am a PhD candidate at the Knowledge-Based Systems (KBS) at [TU Wien](https://www.tuwien.at/en/), under the supervision of [Thomas Eiter](http://www.kr.tuwien.ac.at/staff/eiter/). Here, I am part of the LogiCS-COFUND doctoral programme.
 
 Broadly, my research interests lie in automated reasoning, and particularly in stream reasoning and planning.
 
