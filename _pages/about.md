@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 
-I am a PhD candidate at the Knowledge-Based Systems (KBS) at TU Wien, under the supervision of Thomas Eiter. Here, I am part of the LogiCS-COFUND doctoral programme.
+I am a PhD candidate at the Knowledge-Based Systems (KBS) at [TU Wien](https://www.tuwien.at/en/), under the supervision of [Thomas Eiter](www.kr.tuwien.ac.at/staff/eiter/). Here, I am part of the LogiCS-COFUND doctoral programme.
 
 Broadly, my research interests lie in automated reasoning, and particularly in stream reasoning and planning.
 
 I received
-- a Bachelor's Degree in Computer Science at the University of Udine (2019, final score 110L/110)
-- a Master's Degree in Computer Science at the University of Udine (2022, final score 110L/110.)
-- a Master's Diploma at the School for Advanced Studies of the University of Udine 
+- a Bachelor's Degree in Computer Science at the [University of Udine](https://www.uniud.it/en) (2019, final score 110L/110)
+- a Master's Degree in Computer Science at the [University of Udine](https://www.uniud.it/en) (2022, final score 110L/110.)
+- a Master's Diploma at the School for [Advanced Studies of the University of Udine](https://scuolasuperiore.uniud.it/?set_language=en) 
 
 Work experiences:
-- OsmerFVG, where I worked on metereological datasets for 7 months.
-- Fondazione Brune Kesler (FBK), where I worked on an ESA project for 6 months.
+- [OsmerFVG](https://www.osmer.fvg.it/home.php?ln=-en), where I worked on metereological datasets for 7 months.
+- [Fondazione Brune Kesler (FBK)](https://www.fbk.eu/en/), where I worked on an ESA project for 6 months.
