@@ -3,7 +3,7 @@ title: "Epistemic Multiagent Reasoning with Collaborative Robots"
 collection: publications
 permalink: /publication/2022-06-29-paper-EpistemicMultiagentReasoningWithCollaborativeRobots-1
 excerpt: 'Application of Epistemic Plannning to Robotics'
-date: 2009-10-01
+date: 2022-06-29
 venue: '37th Italian Conference on Computational Logic (CILC 2022)'
 paperurl: 'https://ceur-ws.org/Vol-3204/paper_4.pdf'
 ---
