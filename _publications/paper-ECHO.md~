@@ -1,0 +1,10 @@
+---
+title: "Epistemic Multiagent Reasoning with Collaborative Robots"
+collection: publications
+permalink: /publication/2022-06-29-paper-EpistemicMultiagentReasoningWithCollaborativeRobots-1
+excerpt: 'Application of Epistemic Plannning to Robotics'
+date: 2022-06-29
+venue: '37th Italian Conference on Computational Logic (CILC 2022)'
+paperurl: 'https://ceur-ws.org/Vol-3204/paper_4.pdf'
+---
+Over the last few years, the fields of Artificial Intelligence, Robotics and IoT have gained a lot of attention.This increasing interest has brought, among other things, to the development of autonomous multi-agentsystems where robotic entities may interact with each other. As for all the other autonomous settings, also these systems require arbitration. Our work tries to address this problem by presenting a framework that embeds both a classical and a multi-agent epistemic (epistemic, for brevity) planner in a robotic control architecture. The idea is to combine the (i) classical and the (ii) epistemic solvers to modelefficiently the interaction with: the (i) physical world and the (ii) information flows, respectively. In particular, the presented architecture starts by planning on the “epistemic level" refining then singleagent world-altering actions thanks to the classical planner. To further optimize the solving process, we also introduce the concept of macros in epistemic planning. Macros, in fact, have been successfully employed in classical planning as they allow for opportune aggregations of actions that may lead to a reduction of plans’ length. Finally, the overall framework is exemplified and validated with two Franka Emika manipulators. This allowed us to empirically justify how the combination of the two planning approaches (classical and epistemic), and the introduction of macros, reduce the computational time required by the orchestrating phase.[Download paper here](https://ceur-ws.org/Vol-3204/paper_4.pdf)
