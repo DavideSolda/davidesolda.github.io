@@ -22,6 +22,6 @@ Both the bachelor's and master's thesis were supervised by professor [Agostino D
 
 Work experiences:
 - [OsmerFVG](https://www.osmer.fvg.it/home.php?ln=-en), where I worked on metereological datasets for 7 months under the supervision of [Agostino Manzato](https://digilander.libero.it/agostino.manzato/).
-- [Fondazione Brune Kesler (FBK)](https://www.fbk.eu/en/), where I worked on an [ESA project](https://es.fbk.eu/index.php/projects/robdt/) for 6 months under the supervision of [Stefano Tonetta](https://es.fbk.eu/?author_name=stefano-tonetta).
+- [Fondazione Bruno Kesler (FBK)](https://www.fbk.eu/en/), where I worked on an [ESA project](https://es.fbk.eu/index.php/projects/robdt/) for 6 months under the supervision of [Stefano Tonetta](https://es.fbk.eu/?author_name=stefano-tonetta).
 
 [NEWS!] I recently joined a project called [TAIGER](https://taiger.logic.at/). Specifically, TAIGER will introduce effective frameworks for equipping RL-based agents with the ability to comply with norms in possible interplay with their goals.
