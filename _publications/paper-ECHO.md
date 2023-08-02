@@ -13,4 +13,4 @@ To address this problem, we present ECHO, a hierarchical framework that embeds c
 To further optimize the solving process, we introduced the concept of macros in epistemic planning and enriched the ``classical'' part of the domain with goal-networks.
 Finally, we evaluated our approach in an actual robotic environment showing that our architecture indeed reduces the overall computational time.
 
-[Download paper here](TOBEUPLOADED)
+[Download paper here](https://academic.oup.com/logcom/advance-article/doi/10.1093/logcom/exad036/7227283?utm_source=advanceaccess&utm_campaign=logcom&utm_medium=email)
