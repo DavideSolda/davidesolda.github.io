@@ -3,7 +3,9 @@ title: "ECHO: a Hierarchical Combination of Classical and Multi-Agent Epistemic 
 collection: publications
 permalink: /publication/paper-ECHO
 excerpt: 'ECHO: a Hierarchical Combination of Classical and Multi-Agent Epistemic Planning Problems'
+date: 2023-07-21
 venue: 'Journal of Logic and Computation (JLC)'
+paperurl: 'https://academic.oup.com/logcom/advance-article/doi/10.1093/logcom/exad036/7227283?utm_source=advanceaccess&utm_campaign=logcom&utm_medium=email'
 ---
 The continuous interest in Artificial Intelligence (AI) has brought, among other things, the development of several scenarios where multiple artificial entities interact with each other. As for all the other autonomous settings, these multi-agent systems require orchestration. This is, generally, achieved through techniques derived from the vast field of Automated Planning. Notably, arbitration in multi-agent domains is not only tasked with regulating how the agents act, but must also consider the interactions between the agents' information flows and must, therefore, reason on an epistemic level.
 
