@@ -1,0 +1,26 @@
+---
+title: "Contracted Temporal Equilibrium Logic"
+collection: publications
+permalink: /publication/2024cTEL
+excerpt: 'Contracted Temporal Equilibrium Logic'
+date: 2024-08-03
+venue: '21st International Conference on Principles of Knowledge Representation and Reasoning (KR 2024)'
+paperurl: '[https://github.com/DavideSolda/davidesolda.github.io/blob/master/files/Complexity_Aspects_of_Monitoring_in_Temporal_ASP.pdf]'
+---
+The stable model semantics of logic programs has been characterized by
+Equilibrium Logic, which is a non-monotonic formalism that selects
+models from the (monotonic) intermediate logic of Here-and-There. It
+provides stable models for arbitrary propositional formulas and has
+been fruitfully extended to different modal languages. Among them are
+theories in the syntax of Linear-Time Temporal Logic (LTL), giving
+rise to Temporal Equilibrium logic (TEL) based on Temporal
+Here-and-There (THT). In TEL, models are selected that minimize truth
+among THT traces of the same length.  In this paper, we consider a
+selection that in addition may reduce the number of transitions in a trace, 
+  intuitively forming a contraction of it. We thus introduce contracted THT and contracted TEL  on top of a model
+selection on a logical basis. The resulting c-stable models can be
+viewed as stable models in TEL that can not be summarized into a
+smaller trace. We illustrate contraction on several examples related
+to logic programming and explore several properties, like the relation
+to TEL and LTL, and in particular the connection to the LTL
+property of stuttering.
