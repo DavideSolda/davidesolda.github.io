@@ -25,5 +25,3 @@ Work experiences:
 - [Fondazione Bruno Kesler (FBK)](https://www.fbk.eu/en/), where I worked on an [ESA project](https://es.fbk.eu/index.php/projects/robdt/) for 6 months under the supervision of [Stefano Tonetta](https://es.fbk.eu/?author_name=stefano-tonetta).
 
 [CV Download](https://github.com/DavideSolda/davidesolda.github.io/blob/master/files/solda_cv.pdf)
-
-[NEWS!] I recently joined a project called [TAIGER](https://taiger.logic.at/). Specifically, TAIGER will introduce effective frameworks for equipping RL-based agents with the ability to comply with norms in possible interplay with their goals.
